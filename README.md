@@ -1,13 +1,12 @@
-\# SER Credit Rating – Interim Thesis Submission
+## **SER Credit Rating – Interim Thesis Submission**
 
-\#\# Description
+Description
 
 This repository contains the **\*\*interim submission\*\*** of Tiantian Zhang's Master's thesis at the **\*\*University of Groningen (2025)\*\***.    
 The project explores the use of **\*\*Speech Emotion Recognition (SER)\*\*** for correlating **\*\*credit ratings\*\*** based on acoustic and semantic features extracted from speech.
 
-\---
-
-\#\# Directory Structure
+---
+## **Directory Structure**
 
 ser\_credit\_rating/  
  ├── features/ \# Feature extraction modules  
@@ -19,26 +18,25 @@ ser\_credit\_rating/
  └── README.md \# Project overview and usage instructions
 
 
-\---
+---
 
-\#\# Requirements
+## **Requirements**
 
-This project requires \*\*Python 3.12\+\*\* and the packages listed in \`requirements.txt\`.    
+This project requires Python 3.12 and the packages listed in requirements.txt.    
 Main dependencies include:
 
-\- \`transformers\` ≥ 4.52.0  
-\- \`datasets\` ≥ 3.6.0  
-\- \`torch\`  
-\- \`pandas\` ≥ 2.2.3  
-\- \`numpy\` ≥ 2.2.6  
-\- \`tqdm\`  
-\- \`matplotlib\` ≥ 3.10.3  
-\- \`pydub\`  
-\- \`opensmile\` (for audio feature extraction, optional but recommended)
+transformers ≥ 4.52.0  
+datasets ≥ 3.6.0  
+torch  
+pandas ≥ 2.2.3  
+numpy ≥ 2.2.6  
+tqdm  
+matplotlib ≥ 3.10.3  
+pydub  
+opensmile (for audio feature extraction)
 
 Install them all with:
 
-\`\`\`bash  
 pip install \-r requirements.txt
 
 ---
