@@ -2,8 +2,8 @@
 
 Description
 
-This repository contains the **\*\*interim submission\*\*** of Tiantian Zhang's Master's thesis at the **\*\*University of Groningen (2025)\*\***.    
-The project explores the use of **\*\*Speech Emotion Recognition (SER)\*\*** for correlating **\*\*credit ratings\*\*** based on acoustic and semantic features extracted from speech.
+This repository contains the interim submission of Tiantian Zhang's Master's thesis at the University of Groningen (2025).    
+The project explores the use of Speech Emotion Recognition (SER) for correlating credit ratings based on acoustic and semantic features extracted from speech.
 
 ---
 ## **Directory Structure**
@@ -76,7 +76,7 @@ Replace `your_script.py` with the actual script name you want to execute.
 
 ## **License**
 
-This interim codebase is licensed under the **Apache License 2.0**.
+This interim codebase is licensed under the Apache License 2.0.
 
 **Note:** Future versions may be subject to different licensing considerations.  
 
@@ -84,7 +84,7 @@ This interim codebase is licensed under the **Apache License 2.0**.
 ---
 
 
-## **🏫 Acknowledgements**
+## **Acknowledgements**
 
 This repository is part of an academic thesis submitted to the **University of Groningen**.  
  Thanks to all supervisors, peers, and contributors who supported the research and development process.
